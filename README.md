@@ -1,4 +1,4 @@
-#Digital Logic Vault ⚡
+## Digital Logic Vault ⚡
 
 This is my collection of Verilog HDL files. It’s a mix of basic gate logic, combinational circuits, and sequential blocks I’ve built while exploring digital design and FPGA workflows.
 
